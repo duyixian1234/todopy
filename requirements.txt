@@ -1,0 +1,6 @@
+-i https://mirrors.cloud.tencent.com/pypi/simple
+fastapi
+uvicorn
+jinja2
+html-dsl
+python-multipart
